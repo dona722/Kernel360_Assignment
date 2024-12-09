@@ -4,6 +4,7 @@ import com.example.memorydb.user.db.UserRepository;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
+/*
 @Configuration
 public class DataBaseConfig {
 
@@ -12,3 +13,4 @@ public class DataBaseConfig {
         return new UserRepository();
     }
 }
+*/
