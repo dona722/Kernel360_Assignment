@@ -5,47 +5,26 @@
       <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/exception" />
         <option name="gradleJvm" value="#JAVA_HOME" />
-        <option name="modules">
-          <set>
-            <option value="$PROJECT_DIR$/exception" />
-          </set>
-        </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/jpa" />
         <option name="gradleJvm" value="#JAVA_HOME" />
-        <option name="modules">
-          <set>
-            <option value="$PROJECT_DIR$/jpa" />
-          </set>
-        </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/memorydb" />
         <option name="gradleJvm" value="#JAVA_HOME" />
-        <option name="modules">
-          <set>
-            <option value="$PROJECT_DIR$/memorydb" />
-          </set>
-        </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/rest-api" />
         <option name="gradleJvm" value="#JAVA_HOME" />
-        <option name="modules">
-          <set>
-            <option value="$PROJECT_DIR$/rest-api" />
-          </set>
-        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/simple-board" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/validation" />
         <option name="gradleJvm" value="#JAVA_HOME" />
-        <option name="modules">
-          <set>
-            <option value="$PROJECT_DIR$/validation" />
-          </set>
-        </option>
       </GradleProjectSettings>
     </option>
   </component>
