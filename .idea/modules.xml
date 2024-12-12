@@ -3,6 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Kernel360_Assignment.iml" filepath="$PROJECT_DIR$/.idea/Kernel360_Assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exception.main.iml" filepath="$PROJECT_DIR$/.idea/modules/exception.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jpa.main.iml" filepath="$PROJECT_DIR$/.idea/modules/jpa.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/memorydb.main.iml" filepath="$PROJECT_DIR$/.idea/modules/memorydb.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rest-api.main.iml" filepath="$PROJECT_DIR$/.idea/modules/rest-api.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/simple-board.main.iml" filepath="$PROJECT_DIR$/.idea/modules/simple-board.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/validation.main.iml" filepath="$PROJECT_DIR$/.idea/modules/validation.main.iml" />
     </modules>
   </component>
 </project>
